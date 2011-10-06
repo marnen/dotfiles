@@ -1,4 +1,4 @@
-# vi mode
-setopt vi
+# emacs mode
+setopt emacs
 
-export EDITOR=vim
+export EDITOR=/usr/bin/emacs
